@@ -1,5 +1,10 @@
 # 💫 About Me:
-👋 BCA Final Year | Python Backend Developer<br>🔧 Python • Django • DRF • Celery • Redis • Docker<br>🌐 HTML • CSS • Git • GitHub<br>🚀 Building real-world REST APIs<br>📍 Aligarh 
+👋 BCA Final Year | Python Backend Developer<br>
+🔧 Python • Django • DRF • Celery • Redis • Docker<br>
+🌐 HTML • CSS • Git • GitHub<br>
+🚀 Building real-world REST APIs<br>
+🌍 Portfolio: [portfolio-django-4-7fx9.onrender.com](https://portfolio-django-4-7fx9.onrender.com/)<br>
+📍 Aligarh
 
 
 ## 🌐 Socials:
