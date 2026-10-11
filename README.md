@@ -4,7 +4,7 @@
 🌐 HTML • CSS • Git • GitHub • Postman<br>
 🚀 Building real-world REST APIs<br>
 📚 Learning: Kafka/RabbitMQ • Elasticsearch • LangChain<br>
-🌍 Portfolio: [YOUR-NEW-PORTFOLIO-LINK](YOUR-NEW-PORTFOLIO-LINK)<br>
+🌍 Portfolio: [YOUR-NEW-PORTFOLIO-LINK](https://sumitkumar01104.github.io/)<br>
 📍 Aligarh
 
 
